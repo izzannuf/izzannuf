@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Izzan</h1>
-<h3 align="center">I'm a Computer Science student at the University of Indonesia who's interested in backend/frontend engineering, but also interested in data. I have a some project experience from my college tasks and I am excited to learn more new things in software/data engineering. You can see some of my previous projects here on my GitHub account!</h3>
+<h3 align="center">I'm a Computer Science student at the University of Indonesia who's deeply interested in everything data and machine learning. I have some project experience from my college tasks and I am excited to learn more new things in data analysis, data sceience, and engineering. You can see some of my previous projects here on my GitHub account!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
